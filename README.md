@@ -1,4 +1,4 @@
-# Credit_card_expense
+# Credit_card_transaction
 ## File Description
 * **credit_card.csv** : The CSV file containing credit card expenses.
 * **credit_card_expense.sql** :The SQL query file for analyzing credit card expenses.
